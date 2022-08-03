@@ -20,7 +20,7 @@ moddel
 4.  mlp-model:多层感知机模型，是在pytorch环境下使用的
 5.  ticnn：带训练干扰的卷积神经网络模型，在tensorflow环境下运行
 6.  pca，rpt-pca是在pytorch环境下的主成分分析算法模型
-//
+//以下与他人一起完成
 7.  ResBlock_CBAM是在pytorch环境下加入卷积块注意模块的神经网络模型
 8.  ECA_Net是在pytorch环境下轻量注意力机制的cnn模型的神经网络模型
 9.  SE_ResNet50是在pytorch环境下挤压和激励网络模型
